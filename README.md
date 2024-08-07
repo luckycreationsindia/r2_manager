@@ -20,6 +20,10 @@ npm install
 npm start
 ```
 
+## API Calls
+
+* /getUploadUrl - Generate Signed URL
+
 ## Note
 
 *This Project uses mjs extension for javascript modules and type is set to module in package.json*
